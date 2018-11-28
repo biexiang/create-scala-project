@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="spark-catalyst_2.11-2.3.1">
+    <CLASSES>
+      <root url="jar://E:/spark/jars/spark-catalyst_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-core_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-graphx_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-hive-thriftserver_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-hive_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-kubernetes_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-kvstore_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-launcher_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-mesos_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-mllib-local_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-mllib_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-network-common_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-network-shuffle_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-repl_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-sketch_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-sql_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-streaming_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-tags_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-unsafe_2.11-2.3.1.jar!/" />
+      <root url="jar://E:/spark/jars/spark-yarn_2.11-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
